@@ -16,9 +16,10 @@ Key aspects studied include:
 - operating point and energy headroom constraints of BESS,
 - inverter overloading limits during fast frequency events,
 - angle and frequency stability under severe disturbances.
-……
-
+-  …… ……
+  
 The emphasis is on identifying trade-offs and stability boundaries.
+
 
 ## Files
 
