@@ -38,7 +38,7 @@ The system loads and processes grayscale images (160×120), supporting:
 
 ### System-Level Challenges
 
-The main difficulty of this project lies in coordinating **software, hardware, and timing constraints simultaneously**:
+The main difficulty of this project lies in coordinating software, hardware, and timing constraints simultaneously:
 
 - A μC/OS-II RTOS is used to manage multiple concurrent tasks with carefully chosen priorities.
 - Shared resources such as SDRAM, pixel buffers, and PIOs are protected using mutexes to avoid corruption and deadlocks.
