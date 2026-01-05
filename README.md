@@ -3,6 +3,9 @@ Technical and academic projects completed during my studies at Monash University
 
 Each subdirectory contains a dedicated README describing the scope, methodology, and focus of the corresponding projects.
 
+Following the completion of the final year project, I am continuing to work on related research with my FYP supervisor and a former project teammate. The goal is to develop the work into a conference paper submission.
+
+
 ## Project Areas
 
 ### Power System Projects
