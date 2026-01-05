@@ -1,4 +1,4 @@
-# Final Year Project
+# Final Year Project - Technology_Providers_of_Synthetic_Inertia
 This project is my Final Year Project (FYP), awarded a High Distinction (HD).
 
 It investigates synthetic inertia provision from grid-forming (GFM) battery energy storage systems (BESS) in low-inertia power systems, with a particular focus on how control parameters and grid characteristics shape frequency response and stability.
